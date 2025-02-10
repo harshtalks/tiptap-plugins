@@ -22,7 +22,7 @@ Installing the package using pnpm
 ## Usage:
 
 
-1. Define suggestions. Add all the commaands you want in the slash menu.
+1. Define suggestions. Add all the commands you want in the slash menu.
 ```ts
 import { enableKeyboardNavigation } from "@harshtalks/slash-tiptap";
 
